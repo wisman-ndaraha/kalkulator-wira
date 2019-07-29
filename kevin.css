@@ -1,0 +1,27 @@
+.tambah{
+    border: 1px solid green;
+    margin: 10px;
+    padding: 5px;
+    background: red;
+}
+
+h1{
+    border: 1px solid salmon;
+    background: white;
+    width: 200px;
+}
+
+.kali{
+    border: 1px solid black;
+    margin: 10px;
+    padding: 5px;
+    background: yellow;
+    
+}
+
+.bagi{
+    border: 1px solid red;
+    margin:10px;
+    padding: 5px;
+    background: aqua;
+}
